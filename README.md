@@ -1,5 +1,6 @@
-# Heart-Disease-Prediction
 🩺 Disease Detector
+# Heart-Disease-Prediction
+
 📌 Overview
 
 The Disease Detector is a machine learning project aimed at predicting diseases using patient health information. By applying classification algorithms, the model processes medical attributes/symptoms and generates predictions that can support healthcare diagnostics.
